@@ -1,5 +1,6 @@
 [![codecov](https://codecov.io/gh/arturogonzalezm/train_simulator/graph/badge.svg?token=dfLOL5Ys5q)](https://codecov.io/gh/arturogonzalezm/train_simulator)
-
+[![PyLint](https://github.com/arturogonzalezm/train_simulator/actions/workflows/workflow.yml/badge.svg)](https://github.com/arturogonzalezm/train_simulator/actions/workflows/workflow.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 # Train Simulator
 
 ```bash
